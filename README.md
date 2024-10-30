@@ -13,6 +13,9 @@ A web application for managing car rentals, allowing users to browse, book, and 
 ## Technologies Used
 HTML, CSS, Bootstrap, jQuery, DataTables, PHP, MySQL, JazzCash Payment Gateway
 
+## Documentation
+[Download the PDF](CRMS%20Documentation.pdf)
+
 ## Installation
 1. **Download and Install XAMPP**  
    [Link to Download XAMPP](https://www.apachefriends.org/download.html)  
