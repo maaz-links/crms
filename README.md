@@ -49,3 +49,15 @@ HTML, CSS, Bootstrap, jQuery, DataTables, PHP, MySQL, JazzCash Payment Gateway
 - **Admin:**  
   - Username: `admin`  
   - Password: `123`
+
+## Screenshots
+
+![pic1](Screenshots/scrshot-0.jpg)
+
+![pic1](Screenshots/scrshot-1.jpg)
+
+![pic1](Screenshots/scrshot-2.jpg)
+
+![pic1](Screenshots/scrshot-3.jpg)
+
+![pic1](Screenshots/scrshot-4.jpg)
